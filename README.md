@@ -2,7 +2,7 @@
 
 ## Objective
 
-This repository contains code for the accessibility optimization for a company's webpage called Horiseon. You will find several changes which include making the starter code more semantic and ultimately optimizing the accessibility standards on the code itself
+This repository contains code for the accessibility optimization for a company's webpage called Horiseon. You will find several changes which include making the starter code more semantic and ultimately optimizing the accessibility standards on the code itself. I also consolidated several CSS elements to make it simplier and easier to read thus, making the code easier and more efficent to work with for fellow developers.
 
 ## Installation
 
